@@ -4,6 +4,7 @@ public class Length {
 	public static void main(String[] args) {
 		  // remarks
 		  // rearks 2
+		// remarks 3
 		  String name[]= {"Ali", "Boss","John","Paul"};
 		  
 		  for(int i=0; i<name.length; i++) {
