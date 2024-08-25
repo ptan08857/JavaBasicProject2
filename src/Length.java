@@ -2,6 +2,7 @@
 public class Length {
 
 	public static void main(String[] args) {
+		  // remarks
 		  String name[]= {"Ali", "Boss","John","Paul"};
 		  
 		  for(int i=0; i<name.length; i++) {
